@@ -1,2 +1,2 @@
-# dev_html_css_js
-This repo is used to create projects for basic html, css and javascript
+# calculator
+Calculator functions using html css and javascript
